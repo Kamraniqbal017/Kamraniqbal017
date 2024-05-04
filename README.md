@@ -1,9 +1,9 @@
 
-HI , I'm Kamran Iqbal @Kamraniqbal017- 👋 Hi, I’m @Kamraniqbal017
- - 👀 I’m interested in ...i'm interseted in Andriod development
- - 💞️ I’m looking to collaborate on ...I'm looking for collaborate on App development
+- 👋 Hi, I’m @Kamraniqbal017
+ - 👀 I'm interseted in Andriod development
+ - 💞️ I'm looking for collaborate on App development
 -
-   📫 How to reach me ...You can contact me on my Email Kamraniqbaljk@gmail.com 
+   📫 You can contact me on my Email Kamraniqbaljk@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
